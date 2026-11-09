@@ -1,0 +1,17 @@
+
+{
+  "client_id": "https://anilpacal-forinvest.github.io/kiro-alpaca-oauth/kiro-alpaca-client.json",
+  "client_name": "Kiro Alpaca Broker Sandbox",
+  "client_uri": "https://github.com/anilpacal-forinvest/kiro-alpaca-oauth",
+  "redirect_uris": [
+    "http://127.0.0.1:7778/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
